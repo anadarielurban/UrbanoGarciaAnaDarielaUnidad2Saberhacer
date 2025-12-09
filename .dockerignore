@@ -1,0 +1,9 @@
+﻿.git/
+.gitignore
+.vscode/
+.idea/
+node_modules/
+*.log
+docker-compose.override.yml
+.env.local
+README.md
